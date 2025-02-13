@@ -7,6 +7,6 @@ State Management:
 - The cart state is managed using React Context API.
 - Since this is a small-scale application, Context API is preferred over Redux, as it provides a simpler and more efficient way to handle state.
 
-Start and build app:
+Start and build an app:
 - npm start
 - npm run build
